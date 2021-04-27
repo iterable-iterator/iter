@@ -1,7 +1,7 @@
 :roll_of_paper: [@iterable-iterator/iter](https://iterable-iterator.github.io/iter)
 ==
 
-An iter function for JavaScript.
+An `iter` function for JavaScript.
 See [docs](https://iterable-iterator.github.io/iter/index.html).
 
 > :building_construction: Caveat emptor! This is work in progress. Code may be
