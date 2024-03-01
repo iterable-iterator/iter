@@ -16,8 +16,7 @@ iter('ABC').next().value; // A
 [![License](https://img.shields.io/github/license/iterable-iterator/iter.svg)](https://raw.githubusercontent.com/iterable-iterator/iter/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@iterable-iterator/iter.svg)](https://www.npmjs.org/package/@iterable-iterator/iter)
 [![Tests](https://img.shields.io/github/workflow/status/iterable-iterator/iter/ci:test?event=push&label=tests)](https://github.com/iterable-iterator/iter/actions/workflows/ci:test.yml?query=branch:main)
-[![Dependencies](https://img.shields.io/david/iterable-iterator/iter.svg)](https://david-dm.org/iterable-iterator/iter)
-[![Dev dependencies](https://img.shields.io/david/dev/iterable-iterator/iter.svg)](https://david-dm.org/iterable-iterator/iter?type=dev)
+[![Dependencies](https://img.shields.io/librariesio/github/iterable-iterator/iter.svg)](https://github.com/iterable-iterator/iter/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/iterable-iterator/iter.svg)](https://github.com/iterable-iterator/iter/issues)
 [![Downloads](https://img.shields.io/npm/dm/@iterable-iterator/iter.svg)](https://www.npmjs.org/package/@iterable-iterator/iter)
 
