@@ -1,6 +1,6 @@
 import test from 'ava';
 
-import {iter} from '../../src/index.js';
+import {iter} from '#module';
 
 test('array', (t) => {
 	const it = iter([1, 2, 3]);
